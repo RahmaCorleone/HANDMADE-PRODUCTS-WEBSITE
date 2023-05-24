@@ -7,6 +7,7 @@ A shopping website built using HTML, CSS, JavaScript, C#, and Asp.net. The Websi
 ![3](https://github.com/RahmaCorleone/HANDMADE-PRODUCTS-WEBSITE/assets/100363780/25c363b2-b3c8-4308-8c0a-db918e6e3fc0)
 3- Home Page 
 ![interface ](https://github.com/RahmaCorleone/HANDMADE-PRODUCTS-WEBSITE/assets/100363780/c81b3038-9954-43e4-b3ac-cd1954fcf709)
-
+4- Add Product Page 
+![4](https://github.com/RahmaCorleone/HANDMADE-PRODUCTS-WEBSITE/assets/100363780/91dc04a8-69b9-456e-8173-5c4416e2b07e)
 
 
